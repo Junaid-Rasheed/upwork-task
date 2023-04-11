@@ -45,7 +45,11 @@ function App() {
                 >
                   <span className="flex justify-around gap-4 items-center">
                     <div className="flex   font-bold justify-center items-center bg-[#edf2f8] w-16  rounded-xl">
-                      <img src="/mini.jpg" className="h-14 rounded-lg" />
+                      <img
+                        src="/mini.jpg"
+                        className="h-14 rounded-lg"
+                        alt="mini-image"
+                      />
                     </div>
                     <div className="w-10/16 flex flex-col font-semibold">
                       Japanese lessons
